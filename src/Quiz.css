@@ -1,0 +1,24 @@
+/* Quiz.css */
+
+.quiz-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .question {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .options-container {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .option {
+    background: #f0f0f0;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
